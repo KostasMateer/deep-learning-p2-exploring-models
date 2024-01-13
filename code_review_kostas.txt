@@ -1,0 +1,7 @@
+Did code review with Basel because partner never responded.
+
+Basel said the code overall looked very well done.
+
+He said that should have done more tests in an organized manner and to use sk learn's pipline tools.
+
+He also said for the presentation, maybe get rid of some of the code, and only have the results because a lot of the code is unnecessary.
